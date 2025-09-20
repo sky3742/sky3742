@@ -1,4 +1,13 @@
-## Hi there 👋
+🚀 Hey, I'm Sky!
+🔧 Front-end developer | Next.js lover at work, Svelte enthusiast in my free time.
+💻 Passionate about building intuitive, responsive web experiences.
+🌱 Always exploring new frameworks and pushing the limits of what’s possible in web development.
+✨ Currently working on Nearby Restaurant Picker
+ (check it out!)
+📚 Stay up-to-date with tech by staying active on social media and exploring the latest trends.
+👥 Open to collaborations, open-source contributions, or just talking tech!
+📬 Contact: skyblue3742@gmail.com
+🔗 Feel free to reach out for ideas, feedback, or to join forces on cool projects!
 
 <!--
 **sky3742/sky3742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
